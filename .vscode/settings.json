@@ -1,0 +1,7 @@
+{
+    "tinymist.typstExtraArgs": [
+        "--input=student_name=Стенин Д. Ю.,\nРазумов В. А.",
+        "--input=student_group=23-ТР",
+        "--input=teacher_name=Штанюк А. А.",
+    ]
+}

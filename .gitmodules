@@ -1,0 +1,3 @@
+[submodule "nntu-typst"]
+	path = nntu-typst
+	url = https://github.com/moogion/nntu-typst
