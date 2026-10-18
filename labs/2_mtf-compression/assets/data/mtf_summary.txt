@@ -1,0 +1,7 @@
+Original unary length: 174549243
+Encoded unary length:  26608687
+Original/Encoded ratio: 6.560
+Original ZIP size: 753130 B
+Encoded ZIP size:  1711910 B
+Compression ratio (original): 2.534
+Compression ratio (encoded):  15.543
